@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of liplum/flarum-html-widget.** Not for installation: use [Packagist](https://packagist.org/packages/liplum/flarum-html-widget) or the [upstream repository](https://github.com/liplum/flarum-html-widget).
 
-**0** versions archived · Latest: [`v0.1.0`](https://github.com/flarchive/liplum-flarum-html-widget/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^1.2`
+**1** versions archived · Latest: [`v0.1.0`](https://github.com/flarchive/liplum-flarum-html-widget/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^1.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2025-03-16 | `^1.2` | [Browse](https://github.com/flarchive/liplum-flarum-html-widget/tree/archive/v0.1.0) |
 
 Catalog entry: [packages/liplum-flarum-html-widget.json](https://github.com/flarchive/archive-index/blob/main/packages/liplum-flarum-html-widget.json)
 
